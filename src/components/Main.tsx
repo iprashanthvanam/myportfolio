@@ -26,8 +26,8 @@ function Main() {
           
 
           <div className="mobile_social_icons">
-            <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="https://github.com/iprashanthvanam/" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            <a href="https://www.linkedin.com/in/iprashanthvanam/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
             <a href="https://leetcode.com/u/iprashanthvanam/" target="_blank" rel="noreferrer"><LeetcodeIcon size={24} /></a>
           </div>
         </div>
