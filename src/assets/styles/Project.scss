@@ -30,6 +30,38 @@
     transform: scale(1.05);
 }
 
+.tech-stack {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.project-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.icon {
+  font-size: 1.5rem;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.icon:hover {
+  color: #007bff; /* Change to your preferred hover color */
+}
+
+.play-icon {
+  /* Add specific styles for play icon if needed */
+}
+
+.code-icon {
+  /* Add specific styles for code icon if needed */
+}
+
 @media screen {
     @media (max-width: 700px) {
         .projects-container {
